@@ -1,0 +1,14 @@
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\final project final program\final project final program\bin\Debug\net8.0\final project final program.exe
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\final project final program\final project final program\bin\Debug\net8.0\final project final program.deps.json
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\final project final program\final project final program\bin\Debug\net8.0\final project final program.runtimeconfig.json
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\final project final program\final project final program\bin\Debug\net8.0\final project final program.dll
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\final project final program\final project final program\bin\Debug\net8.0\final project final program.pdb
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\final project final program\final project final program\obj\Debug\net8.0\final project final program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\final project final program\final project final program\obj\Debug\net8.0\final project final program.AssemblyInfoInputs.cache
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\final project final program\final project final program\obj\Debug\net8.0\final project final program.AssemblyInfo.cs
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\final project final program\final project final program\obj\Debug\net8.0\final project final program.csproj.CoreCompileInputs.cache
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\final project final program\final project final program\obj\Debug\net8.0\final project final program.dll
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\final project final program\final project final program\obj\Debug\net8.0\refint\final project final program.dll
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\final project final program\final project final program\obj\Debug\net8.0\final project final program.pdb
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\final project final program\final project final program\obj\Debug\net8.0\final project final program.genruntimeconfig.cache
+C:\Users\Mark Angelo\Documents\Visual Studio 2022\projects\final project final program\final project final program\obj\Debug\net8.0\ref\final project final program.dll
